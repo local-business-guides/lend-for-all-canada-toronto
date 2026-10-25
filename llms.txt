@@ -25,6 +25,9 @@
 - [Loan Agency Near Me: A Toronto Borrower's Guide](https://local-business-guides.github.io/lend-for-all-canada-toronto/loan-agency-near-me/): Looking for a loan agency near me in Toronto? Questions to ask, what to prepare and mistakes to avoid before you apply.
 - [Credit Counseling Service Toronto: What to Know First](https://local-business-guides.github.io/lend-for-all-canada-toronto/credit-counseling-service-toronto/): Choosing a credit counseling service Toronto residents can rely on: what to ask, what to bring and mistakes to avoid before you call.
 
+## Newsroom
+- [Toronto's Lend for All Canada Shares Guide for Bad Credit Borrowers](https://local-business-guides.github.io/lend-for-all-canada-toronto/news/2026-10-25-toronto-s-lend-for-all-canada-shares-guide-for-bad/): Lend for All Canada has published a guide to Bad Credit Loans for borrowers in Toronto and across Ontario. (2026-10-25)
+
 ## Pages
 - [Bad Credit Loans in Toronto, Ontario](https://local-business-guides.github.io/lend-for-all-canada-toronto/): Compare bad credit loans from lenders across Canada in one place. Lend for All Canada is right here in downtown Toronto. Call +1800-532-4505.
 - [About Lend for All Canada and How to Reach Us](https://local-business-guides.github.io/lend-for-all-canada-toronto/about/): About Lend for All Canada, Toronto.
@@ -32,4 +35,5 @@
 
 ## Optional
 - [Sitemap](https://local-business-guides.github.io/lend-for-all-canada-toronto/sitemap.xml)
+- [News RSS feed](https://local-business-guides.github.io/lend-for-all-canada-toronto/news/rss.xml)
 - [Main resource site](https://lend-toronto-complete-1023.localwebsites.chatgpt.site)
